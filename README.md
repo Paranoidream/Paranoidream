@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paranoidream
 - 👀 I’m interested in learning new stuff about IT.
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Frontend development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
